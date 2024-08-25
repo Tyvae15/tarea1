@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title> Bienvenido Profesor Juan Carlos </title>
+</head>
+<body>
+
+<h1> ¡Bienvenido al primer archivo!
+<p> Este va ser el primer archivo sin corregir.
+</body>
+</html>
