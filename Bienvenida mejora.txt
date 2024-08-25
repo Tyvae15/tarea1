@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<head>
+<title> BIENVENIDOS A ESTA PRESENTACION </title>
+</head>
+<body>
+
+        <h1>Bienvenido a Mi Página Web</h1>
+        <p>Un lugar para compartir mis ideas y proyectos.</p>
+</body>
+</html>
